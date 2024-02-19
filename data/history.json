@@ -1,0 +1,66 @@
+[
+  {
+    "userid": "61555832249594",
+    "prefix": "+",
+    "admin": [
+      "100092359574131"
+    ],
+    "blacklist": [],
+    "enableCommands": [
+      {
+        "commands": [
+          "adduser",
+          "admin",
+          "ai",
+          "bal",
+          "bes",
+          "catgpt",
+          "chesca",
+          "claire",
+          "colorroulette",
+          "cyberdetective",
+          "dice",
+          "dogbot",
+          "emojimix",
+          "emojiroulette",
+          "gemini",
+          "getoken",
+          "gpt",
+          "help",
+          "horse",
+          "llama",
+          "music",
+          "numberguess",
+          "out",
+          "ping",
+          "pinterest",
+          "poli",
+          "quiz",
+          "rankup",
+          "redroom",
+          "rps",
+          "sendmoney",
+          "shoticron",
+          "sim",
+          "slot",
+          "spaceexplorer",
+          "sumi",
+          "tempmail",
+          "tid",
+          "uid",
+          "uncleroger",
+          "unsent",
+          "uptime"
+        ]
+      },
+      {
+        "handleEvent": [
+          "antiout",
+          "resend"
+        ]
+      }
+    ],
+    "time": 0,
+    "name": "AUTOBOT"
+  }
+]
